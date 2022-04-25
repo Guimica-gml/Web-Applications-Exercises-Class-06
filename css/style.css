@@ -24,13 +24,12 @@ header > h1 {
 
     display: flex;
     justify-content: space-between;
+    gap: 15px;
 }
 
 .box {
     border: 1px solid lightgray;
     border-radius: 15px;
-
-    width: 310px;
 
     box-sizing: border-box;
     margin: 0px;
